@@ -1,2 +1,0 @@
-# CuentaPrj_JarquinBadillaBenjamin
-AA4GitHub
